@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """lockbooxes module"""
 
+
 def canUnlockAll(boxes):
     """determines if all boxes can be opened"""
     if len(boxes) == 0:
